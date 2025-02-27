@@ -41,7 +41,6 @@ function actualizarLista() {
     nombres.forEach((nombre) => {
         const li = document.createElement("li");
         li.textContent = nombre;
-        li.setAttribute("role", "listitem"); // Mejorar accesibilidad
         listaAmigos.appendChild(li);
     });
 }
