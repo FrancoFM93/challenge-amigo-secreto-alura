@@ -107,6 +107,4 @@ Licencia 📄
 
 Este proyecto está bajo la licencia MIT.
 
-¡Diviértete organizando tu amigo secreto! 🎉
 
-Este README es breve, claro y cubre todos los aspectos importantes del proyecto. Si necesitas ajustarlo o agregar más detalles, ¡avísame! 😊
