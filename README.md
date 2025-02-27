@@ -102,6 +102,7 @@ Tecnologías Utilizadas 💻
 Contribuciones 🤝
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la aplicación, no dudes en hacer un fork y enviar un pull request.
+
 Licencia 📄
 
 Este proyecto está bajo la licencia MIT.
