@@ -1,6 +1,7 @@
 Amigo Secreto 🎁
 
 ¡Bienvenido a la aplicación de Amigo Secreto! Esta herramienta te permite organizar un sorteo aleatorio entre tus amigos. Simplemente ingresa los nombres, y la aplicación seleccionará al azar quién será el amigo secreto de cada uno.
+
 Funcionalidades 🚀
 1. Agregar Nombres
 
