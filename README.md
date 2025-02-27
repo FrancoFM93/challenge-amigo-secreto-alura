@@ -32,6 +32,7 @@ Funcionalidades 🚀
 Código JavaScript 🛠️
 
 El código JavaScript está estructurado en las siguientes funciones:
+
 agregarAmigo()
 
     Descripción: Agrega un nombre a la lista.
