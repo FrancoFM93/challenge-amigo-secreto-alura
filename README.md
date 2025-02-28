@@ -2,6 +2,9 @@ Amigo Secreto 🎁
 
 ¡Bienvenido a la aplicación de Amigo Secreto! Esta herramienta te permite organizar un sorteo aleatorio entre tus amigos. Simplemente ingresa los nombres, y la aplicación seleccionará al azar quién será el amigo secreto de cada uno.
 
+>[!Note]
+>[Clickea aquí para ver la aplicación en vivo](https://challenge-amigo-secreto-alura-seven.vercel.app/)
+
 Funcionalidades 🚀
 1. Agregar Nombres
 
@@ -103,8 +106,7 @@ Contribuciones 🤝
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la aplicación, no dudes en hacer un fork y enviar un pull request.
 
-Licencia 📄
-
-Este proyecto está bajo la licencia MIT.
+>[!Note]
+>📄 Este proyecto está bajo la licencia MIT.
 
 
