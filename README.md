@@ -107,6 +107,6 @@ Contribuciones 🤝
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la aplicación, no dudes en hacer un fork y enviar un pull request.
 
 >[!Note]
->📄 Este proyecto está bajo la licencia MIT.
+>📄 Este proyecto está bajo licencia MIT.
 
 
